@@ -14,5 +14,4 @@ footer: PkrMate.com
 
 # Build settings
 markdown: kramdown
-theme: minima
 permalink: pretty
